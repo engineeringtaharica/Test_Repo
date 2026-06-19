@@ -1,0 +1,60 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+
+<values xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="DataSchema.xsd">
+  <Data>
+    <ID>0</ID>
+    <Value>Pick a value</Value>
+  </Data>
+  <Data>
+    <ID>1</ID>
+    <Value>wyless.net</Value>
+  </Data>
+  <Data>
+    <ID>2</ID>
+    <Value>gprs02.motient.net</Value>
+  </Data>
+  <Data>
+    <ID>3</ID>
+    <Value>telargo.t-mobile.com;username=Ons9677;password=03364c7a</Value>
+  </Data>
+  <Data>
+    <ID>4</ID>
+    <Value>o2.wyless.net;username=Ons9677;password=03364c7a</Value>
+  </Data>
+  <Data>
+    <ID>5</ID>
+    <Value>CMNET</Value>
+  </Data>
+  <Data>
+    <ID>6</ID>
+    <Value>internet.com;username=wapuser1;password=wap</Value>
+  </Data>
+  <Data>
+    <ID>7</ID>
+    <Value>imovil.entelpcs.cl;username=entelpcs;password=entelpcs</Value>
+  </Data>
+  <Data>
+    <ID>8</ID>
+    <Value>internet;username=internet;password=internet</Value>
+  </Data>
+  <Data>
+    <ID>9</ID>
+    <Value>internet</Value>
+  </Data>
+  <Data>
+    <ID>10</ID>
+    <Value>internet.t-d1.de;username=t-d1;password=t-d1</Value>
+  </Data>
+  <Data>
+    <ID>11</ID>
+    <Value>vivo;username=vivo;password=vivo</Value>
+  </Data>
+  <Data>
+    <ID>12</ID>
+    <Value>isp.cingular;username=ISP@CINGULARGPRS.COM;password=CINGULAR1</Value>
+  </Data>
+  <Data>
+    <ID>13</ID>
+    <Value>internet2.voicestream.com</Value>
+  </Data>
+</values>

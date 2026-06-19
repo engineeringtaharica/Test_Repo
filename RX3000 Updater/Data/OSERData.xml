@@ -1,0 +1,155 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<values xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="DataSchema.xsd">
+  <Data>
+    <ID>0</ID>
+    <Value>'?' - CMD_LOADER_INFO</Value>
+  </Data>
+  <Data>
+    <ID>1</ID>
+    <Value>'@' - CMD_IDLE</Value>
+  </Data>
+  <Data>
+    <ID>2</ID>
+    <Value>'A' - CMD_GET_INFO</Value>
+  </Data>
+  <Data>
+    <ID>3</ID>
+    <Value>'B' - CMD_WRITE_TO_ADDR</Value>
+  </Data>
+  <Data>
+    <ID>4</ID>
+    <Value>'C' - CMD_GET_CONVERSION</Value>
+  </Data>
+  <Data>
+    <ID>5</ID>
+    <Value>'D' - CMD_STOP_LOGGING</Value>
+  </Data>
+  <Data>
+    <ID>6</ID>
+    <Value>'E' - CMD_READ_AT_ADDR</Value>
+  </Data>
+  <Data>
+    <ID>7</ID>
+    <Value>'F' - CMD_LAUNCH</Value>
+  </Data>
+  <Data>
+    <ID>8</ID>
+    <Value>'G' - CMD_BATTERY</Value>
+  </Data>
+  <Data>
+    <ID>9</ID>
+    <Value>'H' - CMD_LOW_POWER</Value>
+  </Data>
+  <Data>
+    <ID>10</ID>
+    <Value>'I' - CMD_TERMINATE_COMM</Value>
+  </Data>
+  <Data>
+    <ID>11</ID>
+    <Value>'J' - CMD_WRITE_PROTECT_OFF</Value>
+  </Data>
+  <Data>
+    <ID>12</ID>
+    <Value>'K' - CMD_GET_RTC</Value>
+  </Data>
+  <Data>
+    <ID>13</ID>
+    <Value>'L' - CMD_SET_RTC</Value>
+  </Data>
+  <Data>
+    <ID>14</ID>
+    <Value>'M' - CMD_GET_DATAFILE_PTR</Value>
+  </Data>
+  <Data>
+    <ID>15</ID>
+    <Value>'N' - CMD_SET_DATAFILE_PTR</Value>
+  </Data>
+  <Data>
+    <ID>16</ID>
+    <Value>'O' - CMD_GET_LOGGER_STATUS</Value>
+  </Data>
+  <Data>
+    <ID>17</ID>
+    <Value>'P' - CMD_GET_SENSOR_HEADER</Value>
+  </Data>
+  <Data>
+    <ID>18</ID>
+    <Value>'Q' - CMD_ATTACHED_SENSORS</Value>
+  </Data>
+  <Data>
+    <ID>19</ID>
+    <Value>'R' - CMD_ASSIGN_SENSORS</Value>
+  </Data>
+  <Data>
+    <ID>20</ID>
+    <Value>'S' - CMD_OBUS_ERROR</Value>
+  </Data>
+  <Data>
+    <ID>21</ID>
+    <Value>'T' - CMD_LED_TEST</Value>
+  </Data>
+  <Data>
+    <ID>22</ID>
+    <Value>'U' - CMD_CALIBRATE_RTC</Value>
+  </Data>
+  <Data>
+    <ID>23</ID>
+    <Value>'V' - CMD_SENS_MEAS_ASCII</Value>
+  </Data>
+  <Data>
+    <ID>24</ID>
+    <Value>'V' - CMD_WRITE_PROGRAM_TO_ADDR</Value>
+  </Data>
+  <Data>
+    <ID>25</ID>
+    <Value>'W' - CMD_READ_FLASH_PROGRAM</Value>
+  </Data>
+  <Data>
+    <ID>26</ID>
+    <Value>'W' - CMD_SENS_NAME_ASCII</Value>
+  </Data>
+  <Data>
+    <ID>27</ID>
+    <Value>'X' - CMD_RESTART</Value>
+  </Data>
+  <Data>
+    <ID>28</ID>
+    <Value>'Y' - CMD_WRITE_TO_OB_EE_ADDR</Value>
+  </Data>
+  <Data>
+    <ID>29</ID>
+    <Value>'Z' - CMD_READ_OB_EE_AT_ADDR</Value>
+  </Data>
+  <Data>
+    <ID>30</ID>
+    <Value>'[' - CMD_SYS_STATUS</Value>
+  </Data>
+  <Data>
+    <ID>31</ID>
+    <Value>'a' - CMD_SET_ALARM_PARAM</Value>
+  </Data>
+  <Data>
+    <ID>32</ID>
+    <Value>'b' - CMD_GET_ALARM_PARAM</Value>
+  </Data>
+  <Data>
+    <ID>33</ID>
+    <Value>'c' - CMD_CURRENT_READING16</Value>
+  </Data>
+  <Data>
+    <ID>34</ID>
+    <Value>'d' - CMD_CURRENT_ALLREADINGS</Value>
+  </Data>
+  <Data>
+    <ID>35</ID>
+    <Value>'e' - CMD_CLEAR_ALARM_PARAM</Value>
+  </Data>
+  <Data>
+    <ID>36</ID>
+    <Value>'f' - CMD_BATT_TENBIT</Value>
+  </Data>
+  <Data>
+    <ID>37</ID>
+    <Value>'g' - CMD_CONTROL_ALARM_LED</Value>
+  </Data>
+</values>

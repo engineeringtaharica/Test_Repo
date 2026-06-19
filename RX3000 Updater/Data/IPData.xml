@@ -1,0 +1,31 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<values xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="DataSchema.xsd">
+  <Data>
+    <ID>0</ID>
+    <Value>Pick a value</Value>
+  </Data>
+  <Data>
+    <ID>1</ID>
+    <Value>dil.hobolink.com:54228</Value>
+  </Data>
+  <Data>
+    <ID>2</ID>
+    <Value>dil.hobolink.com:54328</Value>
+  </Data>
+  <Data>
+    <ID>3</ID>
+    <Value>208.85.146.151:54328</Value>
+  </Data>
+  <Data>
+    <ID>4</ID>
+    <Value>dil.hobolink.com:54225</Value>
+  </Data>
+  <Data>
+    <ID>5</ID>
+    <Value>dil.hobolink.com:54325</Value>
+  </Data>
+  <Data>
+    <ID>6</ID>
+    <Value>208.85.146.151:54325</Value>
+  </Data>
+</values>
